@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"mapmap/src"
+	"github.com/oldv/mapmap/src"
 	"os"
 	"path/filepath"
 )

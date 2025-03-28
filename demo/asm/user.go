@@ -1,8 +1,8 @@
 package asm
 
 import (
-	"mapmap/demo/domain"
-	"mapmap/demo/dto"
+	"github.com/oldv/mapmap/demo/domain"
+	"github.com/oldv/mapmap/demo/dto"
 )
 
 // mapmap:assembler
